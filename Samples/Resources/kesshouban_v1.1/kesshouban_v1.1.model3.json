@@ -1,0 +1,42 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kesshouban_v1.1.moc3",
+		"Textures": [
+			"kesshouban_v1.1.4096/texture_00.png"
+		],
+		"Motions": {
+			"Idle": [
+			  {"File":"Idle.motion3.json" ,"FadeInTime":0.5, "FadeOutTime":0.5}			  
+			],
+			"TapArea3":[
+			  {"File":"Dance.motion3.json" ,"FadeInTime":0.5, "FadeOutTime":0.5}
+			],
+			"TapArea1":[
+			  {"File":"Anone_Synced.motion3.json" ,"FadeInTime":0.5, "FadeOutTime":0.5}
+			],
+			"TapArea2":[
+			  {"File":"Nemui.motion3.json" ,"FadeInTime":0.5, "FadeOutTime":0.5}
+			]
+		},
+		"Physics": "kesshouban_v1.1.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{"Name":"Head", "Id":"face"},
+		{"Name":"Area3", "Id":"boot_left"},
+		{"Name":"Area1", "Id":"bag_body"},
+		{"Name":"Area2", "Id":"hat_top"}
+	]
+}

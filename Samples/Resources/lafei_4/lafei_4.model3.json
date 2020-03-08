@@ -1,0 +1,34 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "lafei_4.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "lafei_4.physics3.json",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    }
+  ]
+}
