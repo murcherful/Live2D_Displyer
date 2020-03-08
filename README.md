@@ -8,7 +8,7 @@
 
 - 效果：
 
-  ![](screenshoot.png)
+  ![](https://github.com/murcherful/Live2D_Displyer/blob/master/screenshoot.png)
 
 - 支持：
   - 窗口背景透明展示模型
