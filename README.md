@@ -6,6 +6,8 @@
 
 - 注意：仅支持Live2Dv3模型（模型为`xxx.model3.json`）
 
+- 模型：预置模型为网上资源，侵删。另，血小板模型[推特地址](https://twitter.com/DenchiSoft/status/1036017773011525632)
+
 - 效果：
 
   ![](https://github.com/murcherful/Live2D_Displyer/blob/master/screenshoot.png)
