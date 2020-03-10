@@ -280,7 +280,7 @@
 
   - 了解了文件结构，想要设置相应的动作，首先要定义触发区域。而定义触发区域首先要知道模型区域的名字。这时：
 
-    - 下载Live2D Cubsim3 Viewer，见[百度贴吧帖子](https://tieba.baidu.com/p/6066105365?red_tag=2138000797)或去官网下载，下载安装后自动有Viewer，这个是免费的
+    - 下载Live2D Cubsim3 Viewer，见[百度贴吧帖子](https://tieba.baidu.com/p/6066105365?red_tag=2138000797)或去[官网](https://www.live2d.com/download/cubism/)（注意直接下载**Cubism Editor**，不是**Cubism Viewer for Unity**）下载，下载安装后自动有Viewer，这个是免费的
     - 打开Viewer，将模型打开
     - 点击左上角的`xxx.moc3`，左下角出现信息
     - 将信息顶端的`Parameter`替换为`ArtMesh`
