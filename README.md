@@ -8,6 +8,8 @@
 
 - 模型：预置模型为网上资源，侵删。另，血小板模型[推特地址](https://twitter.com/DenchiSoft/status/1036017773011525632)
 
+- [视频教程](https://www.bilibili.com/video/av95182048)
+
 - 效果：
 
   ![](https://github.com/murcherful/Live2D_Displyer/blob/master/screenshoot.png)
@@ -299,7 +301,7 @@
 
 ## 其他
 
-- 将会录制视频进行演示（不一定）
+- 暂无
 
 
 
